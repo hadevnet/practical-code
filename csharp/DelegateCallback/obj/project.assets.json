@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hatef Ghani\\Desktop\\Smartics\\practical-csharp\\DelegateCallback\\DelegateCallback.csproj",
+      "projectUniqueName": "C:\\Users\\Hatef Ghani\\Desktop\\Smartics\\practical-code\\csharp\\DelegateCallback\\DelegateCallback.csproj",
       "projectName": "DelegateCallback",
-      "projectPath": "C:\\Users\\Hatef Ghani\\Desktop\\Smartics\\practical-csharp\\DelegateCallback\\DelegateCallback.csproj",
+      "projectPath": "C:\\Users\\Hatef Ghani\\Desktop\\Smartics\\practical-code\\csharp\\DelegateCallback\\DelegateCallback.csproj",
       "packagesPath": "C:\\Users\\Hatef Ghani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hatef Ghani\\Desktop\\Smartics\\practical-csharp\\DelegateCallback\\obj\\",
+      "outputPath": "C:\\Users\\Hatef Ghani\\Desktop\\Smartics\\practical-code\\csharp\\DelegateCallback\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hatef Ghani\\AppData\\Roaming\\NuGet\\NuGet.Config",

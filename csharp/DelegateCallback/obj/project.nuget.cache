@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XCrriHKjQx7DsbkVRLBFhwi4vKQ6Gqqw6ymnYE2uk/yaucdet+KmIWgDd7GbFzsDWNjcyt0RFnS4r41W/FEPVQ==",
+  "dgSpecHash": "j6MPjUmDR2v6HwJjUddq2dmS2JFZCG8E3v1A8EJjs3Ee8Z3/3wz7dYxy6dVFrAuIN0UOWkeQLKGPIewOwepghA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hatef Ghani\\Desktop\\Smartics\\practical-csharp\\DelegateCallback\\DelegateCallback.csproj",
+  "projectFilePath": "C:\\Users\\Hatef Ghani\\Desktop\\Smartics\\practical-code\\csharp\\DelegateCallback\\DelegateCallback.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

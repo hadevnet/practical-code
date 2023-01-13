@@ -1,0 +1,15 @@
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\bin\Debug\net7.0\DelegateCallback.exe
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\bin\Debug\net7.0\DelegateCallback.deps.json
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\bin\Debug\net7.0\DelegateCallback.runtimeconfig.json
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\bin\Debug\net7.0\DelegateCallback.dll
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\bin\Debug\net7.0\DelegateCallback.pdb
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\DelegateCallback.csproj.AssemblyReference.cache
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\DelegateCallback.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\DelegateCallback.AssemblyInfoInputs.cache
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\DelegateCallback.AssemblyInfo.cs
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\DelegateCallback.csproj.CoreCompileInputs.cache
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\DelegateCallback.dll
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\refint\DelegateCallback.dll
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\DelegateCallback.pdb
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\DelegateCallback.genruntimeconfig.cache
+C:\Users\Hatef Ghani\Desktop\Smartics\practical-code\csharp\DelegateCallback\obj\Debug\net7.0\ref\DelegateCallback.dll
